@@ -1,4 +1,0 @@
-E:/projects/GitHub/real-player/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-E:/projects/GitHub/real-player/cmake-build-debug/CMakeFiles/real-player.dir
-E:/projects/GitHub/real-player/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/projects/GitHub/real-player/cmake-build-debug/CMakeFiles/real-player_autogen.dir

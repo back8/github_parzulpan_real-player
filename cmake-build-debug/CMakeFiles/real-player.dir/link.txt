@@ -1,3 +1,0 @@
-E:\applicationIns\CLion2020.1.1\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\real-player.dir/objects.a
-E:\applicationIns\Qt\Qt5.9.9\Tools\mingw530_32\bin\ar.exe cr CMakeFiles\real-player.dir/objects.a @CMakeFiles\real-player.dir\objects1.rsp
-E:\applicationIns\Qt\Qt5.9.9\Tools\mingw530_32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\real-player.dir/objects.a -Wl,--no-whole-archive  -o real-player.exe -Wl,--out-implib,libreal-player.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\real-player.dir\linklibs.rsp
